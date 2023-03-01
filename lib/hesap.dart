@@ -6,7 +6,7 @@ class Hesap {
 
   double hesaplama() {
     double sonuc;
-    sonuc = 400 + (_userData.sporGunu) - (_userData.icilenSigara);
+    sonuc = 900 + (_userData.sporGunu) - (_userData.icilenSigara);
     sonuc += (_userData.boy / _userData.kilo);
 
     if (_userData.seciliCinsiyet == 'KADIN') {
