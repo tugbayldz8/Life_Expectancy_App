@@ -1,16 +1,5 @@
-# life_expectancy
+Flutter ile yaşam beklentisi uygulaması...
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran Görüntüsü (21)](https://user-images.githubusercontent.com/78541390/222127959-5ba8551e-adfc-4f4c-a1dd-1d334648628a.png)
+![Ekran Görüntüsü (22)](https://user-images.githubusercontent.com/78541390/222127965-5d0dcbe7-7bc7-44f2-90bd-e50293b76d95.png)
+![Ekran Görüntüsü (23)](https://user-images.githubusercontent.com/78541390/222127968-1e308a03-f146-4e09-a7cc-065c97fec648.png)
